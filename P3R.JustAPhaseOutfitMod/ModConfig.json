@@ -1,0 +1,30 @@
+{
+  "ModId": "P3R.JustAPhaseOutfitMod",
+  "ModName": "Just-A-Phase Outfit Mod",
+  "ModAuthor": "Jinx",
+  "ModVersion": "2,0",
+  "ModDescription": "Gives the SEES Party a rebelious 2000\u0027s makeover",
+  "ModDll": "P3R.JustAPhaseOutfitMod.dll",
+  "ModIcon": "",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "P3R.JustAPhaseOutfitMod.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "P3R.CostumeFramework",
+    "UnrealEssentials",
+    "BGME.BattleThemes"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p3r.exe"
+  ],
+  "ProjectUrl": ""
+}

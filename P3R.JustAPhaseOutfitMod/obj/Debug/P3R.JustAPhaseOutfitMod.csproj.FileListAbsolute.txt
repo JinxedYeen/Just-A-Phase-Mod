@@ -1,0 +1,15 @@
+C:\Users\alexv\Documents\Modding\P3R\Release\Mods\P3R.JustAPhaseOutfitMod\Preview.png
+C:\Users\alexv\Documents\Modding\P3R\Release\Mods\P3R.JustAPhaseOutfitMod\ModConfig.json
+C:\Users\alexv\Documents\Modding\P3R\Release\Mods\P3R.JustAPhaseOutfitMod\P3R.JustAPhaseOutfitMod.deps.json
+C:\Users\alexv\Documents\Modding\P3R\Release\Mods\P3R.JustAPhaseOutfitMod\P3R.JustAPhaseOutfitMod.dll
+C:\Users\alexv\Documents\Modding\P3R\Release\Mods\P3R.JustAPhaseOutfitMod\P3R.JustAPhaseOutfitMod.pdb
+C:\Users\alexv\source\repos\P3R.JustAPhaseOutfitMod\obj\Debug\P3R.JustAPhaseOutfitMod.csproj.AssemblyReference.cache
+C:\Users\alexv\source\repos\P3R.JustAPhaseOutfitMod\obj\Debug\P3R.JustAPhaseOutfitMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\source\repos\P3R.JustAPhaseOutfitMod\obj\Debug\P3R.JustAPhaseOutfitMod.AssemblyInfoInputs.cache
+C:\Users\alexv\source\repos\P3R.JustAPhaseOutfitMod\obj\Debug\P3R.JustAPhaseOutfitMod.AssemblyInfo.cs
+C:\Users\alexv\source\repos\P3R.JustAPhaseOutfitMod\obj\Debug\P3R.JustAPhaseOutfitMod.csproj.CoreCompileInputs.cache
+C:\Users\alexv\source\repos\P3R.JustAPhaseOutfitMod\obj\Debug\P3R.Just.24E185C7.Up2Date
+C:\Users\alexv\source\repos\P3R.JustAPhaseOutfitMod\obj\Debug\P3R.JustAPhaseOutfitMod.dll
+C:\Users\alexv\source\repos\P3R.JustAPhaseOutfitMod\obj\Debug\refint\P3R.JustAPhaseOutfitMod.dll
+C:\Users\alexv\source\repos\P3R.JustAPhaseOutfitMod\obj\Debug\P3R.JustAPhaseOutfitMod.pdb
+C:\Users\alexv\source\repos\P3R.JustAPhaseOutfitMod\obj\Debug\ref\P3R.JustAPhaseOutfitMod.dll

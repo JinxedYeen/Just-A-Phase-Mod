@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "keZArBVe+aSLVSZEVyLnvDzQy58fMSKIa0neZuxGBfWXvJ2PSJG7S0135FEY3lE2FiHw62t5Bw3PfgdHw/fqxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexv\\source\\repos\\P3R.JustAPhaseOutfitMod\\P3R.JustAPhaseOutfitMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexv\\.nuget\\packages\\reloaded.hooks.definitions\\1.11.0\\reloaded.hooks.definitions.1.11.0.nupkg.sha512",
+    "C:\\Users\\alexv\\.nuget\\packages\\reloaded.mod.interfaces\\2.4.0\\reloaded.mod.interfaces.2.4.0.nupkg.sha512",
+    "C:\\Users\\alexv\\.nuget\\packages\\reloaded.sharedlib.hooks\\1.9.0\\reloaded.sharedlib.hooks.1.9.0.nupkg.sha512",
+    "C:\\Users\\alexv\\.nuget\\packages\\unrealessentials.interfaces\\1.0.0\\unrealessentials.interfaces.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
